@@ -1,1 +1,7 @@
-{"scheme":"drand-quicknet","chain":"52db9ba70e0cc0f6eaf7803dd07447a1f5477735fd3f661792ba94600c84e971","round":34043629,"signature":"abf73b80217e30057fa0c99ff4dfaae03b6ab5a057e4e2bba1a6beefe63d159ef3d54e90802580870e7a4e55041eed09","wallet":"25WUzzr4dB9xqViHoMiQnDDk2XM8mcDyvzGR1RzQsTYt"}
+{
+  "scheme": "drand-quicknet",
+  "chain": "52db9ba70e0cc0f6eaf7803dd07447a1f5477735fd3f661792ba94600c84e971",
+  "round": 34043629,
+  "signature": "abf73b80217e30057fa0c99ff4dfaae03b6ab5a057e4e2bba1a6beefe63d159ef3d54e90802580870e7a4e55041eed09",
+  "wallet": "25WUzzr4dB9xqViHoMiQnDDk2XM8mcDyvzGR1RzQsTYt"
+}
